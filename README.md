@@ -7,6 +7,7 @@
 - トップ: https://0712320.github.io/tenho-privacy/
 - サポート: https://0712320.github.io/tenho-privacy/support.html
 - プライバシーポリシー: https://0712320.github.io/tenho-privacy/privacy_policy.html
+- 利用規約: https://0712320.github.io/tenho-privacy/terms_of_service.html
 
 ## Formspree 設定
 
